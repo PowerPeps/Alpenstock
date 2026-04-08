@@ -6,7 +6,9 @@ Alpenstock it's a collection of small, focused, generic directives for AlpineJS.
 
 This collection is currently in developpement, your can look advencement here : [Alpenstock in Codepen](https://codepen.io/collection/qBzOYm)
 
-See [Documentation here](https://powerpeps.github.io/Alpenstock/)
+<a href="https://powerpeps.github.io/Alpenstock/">
+  <img src="https://img.shields.io/badge/Documentation-Link-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentation link">
+</a>
 
 ---
 
